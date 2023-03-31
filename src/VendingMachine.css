@@ -1,0 +1,46 @@
+#vending-machine{
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 400px;
+    width: 310px;
+    position: relative;
+    background-color: pink;
+}
+
+#vending-machine-options{
+    position: absolute;
+    margin-top: 4%;
+    margin-left: 4%;
+    background-color: white;
+    height: 250px;
+    width: 220px
+
+}
+
+#vending-machine-out{
+    position: absolute;
+    margin-top: 90%;
+    margin-left: 4%;
+    margin-bottom: 4%;
+    background-color: rgba(183, 183, 183, 0.797);
+    height: 82px;
+    width: 220px;
+
+}
+
+#vending-machine-option{
+    height: 90px;
+    width: 60px;
+    margin-top: 3%;
+    margin-left: 2%;
+    border-radius: 15%;
+    background-color: rgba(130, 205, 255, 0.744);
+    display: inline-block;
+}
+
+a{
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 50%
+}
